@@ -33,3 +33,4 @@ pyromod~=1.5
 gtts
 yt_dlp
 wget
+aiohttp
